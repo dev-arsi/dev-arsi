@@ -1,12 +1,13 @@
-## Olá! Eu sou o Arthur Silva 🖐️
+## Olá! Eu sou o Arthur Silva 👋😄
+🔥Apaixonado por programação e por servir as pessoas!❤️ 
 
-[![Blog](https://img.shields.io/website?label=dev-arsi&style=for-the-badge&url=https://google.com/)](https://google.com)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/NONE)
+### Seja Bem-vindo ao meu perfil!
+
 
 
 ![arsi GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-arsi&show_icons=true&theme=dracula&count_private=true)
 
-## Tecnologias que eu uso no meu dia
+## Tecnologias que utilizo no meu dia
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -17,4 +18,8 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-Apaixonado por programação e por servir as pessoas!
+## Canais onde tento ajudar quem está começando
+[![Blog](https://img.shields.io/website?label=dev-arsi&style=for-the-badge&url=https://google.com/)](https://google.com)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/NONE)
+
+
