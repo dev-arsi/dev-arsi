@@ -18,7 +18,7 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-## Canais onde tento ajudar quem está começando
+## Canais onde mostro um pouco do que eu faço
 [![Blog](https://img.shields.io/website?label=dev-arsi&style=for-the-badge&url=https://google.com/)](https://google.com)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/NONE)
 
